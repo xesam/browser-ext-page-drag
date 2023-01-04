@@ -64,10 +64,12 @@ const fullCtrl = {
         const mask = document.createElement('div');
         mask.style.opacity = 0.7;
         mask.style.textAlign = 'center';
-        mask.style.padding = '1em';
+        mask.style.padding = '0.5em';
         mask.style.backgroundColor = '#6663';
         mask.style.boxShadow = '0 5px 5px #6666';
         mask.style.color = "red";
+        mask.style.fontSize = "1.5em";
+        mask.style.fontWeight = "bold";
         return mask;
     },
     create() {
