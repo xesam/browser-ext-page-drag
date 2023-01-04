@@ -1,0 +1,32 @@
+{
+  "extName": {
+    "message": "PageDrag"
+  },
+  "extDescription": {
+    "message": "drag page with mouse"
+  },
+  "extToastDisable": {
+    "message": "Disable Drag"
+  },
+  "extToastEnableFull": {
+    "message": "Enable FullScreen Drag"
+  },
+  "extToastEnableEdge": {
+    "message": "Enable Edge Drag"
+  },
+  "extDragging": {
+    "message": "Dragging..."
+  },
+  "extDragArea": {
+    "message": "Drag"
+  },
+  "extHtmlFull": {
+    "message": "Enable FullScreen Drag"
+  },
+  "extHtmlEdge": {
+    "message": "Enable Edge Drag"
+  },
+  "extHtmlDisable": {
+    "message": "Disable Drag"
+  }
+}

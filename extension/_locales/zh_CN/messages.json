@@ -1,0 +1,32 @@
+{
+  "extName": {
+    "message": "页面拖动"
+  },
+  "extDescription": {
+    "message": "通过鼠标来拖动网页，适合看书、看小说，或者微调视图"
+  },
+  "extToastDisable": {
+    "message": "关闭拖动"
+  },
+  "extToastEnableFull": {
+    "message": "开启全屏拖动"
+  },
+  "extToastEnableEdge": {
+    "message": "开启边缘拖动"
+  },
+  "extDragging": {
+    "message": "拖动中..."
+  },
+  "extDragArea": {
+    "message": "拖动区域"
+  },
+  "extHtmlFull": {
+    "message": "开启全屏拖动"
+  },
+  "extHtmlEdge": {
+    "message": "开启边缘拖动"
+  },
+  "extHtmlDisable": {
+    "message": "关闭拖动"
+  }
+}
